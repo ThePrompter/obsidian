@@ -1,0 +1,4 @@
+- Can use AI to generate story, summary, and image for the story
+- Use AI to help create a website
+- use svelte
+- 
