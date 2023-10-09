@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tasks/Untitled.md"
+              }
             }
           }
         ],
@@ -139,12 +141,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a05771934b4bc906",
+  "active": "81d93ed867304fb2",
   "lastOpenFiles": [
+    "Tasks/Untitled.md",
+    "Tasks/Untitled.md",
     "Notes/Project - AI stream.md",
     "Notes/Baby name.md",
     "Notes/Things for family to do.md",
-    "Tasks/Untitled.md",
     "Kanban/Board.md",
     "Kanban/Untitled Kanban.md",
     "Notes",
