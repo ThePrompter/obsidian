@@ -1,5 +1,9 @@
+- sim cards
+
 - Parents
 	- mystery spot
+	- mom - prune and other dried fruit
+	- dad - mahjong
 - Sis / bro in law
 	- practice driving
 	- mission peak
@@ -12,6 +16,6 @@
 - Food
 	- India pizza
 
-- Cook for everyone
+- Cook
 	- 蛋餅
 	- 
