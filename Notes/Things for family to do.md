@@ -4,9 +4,12 @@
 	- mystery spot
 	- mom - prune and other dried fruit
 	- dad - mahjong
+
 - Sis / bro in law
 	- practice driving
 	- mission peak
+	- hiking spot / parks
+
 - Bro
 	- Highway 1
 	- philz coffee
