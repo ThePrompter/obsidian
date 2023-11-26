@@ -16,3 +16,6 @@ weapon: Iron Sting,
 Raiden - Emblem
 
 Ayaka - Blizzard Strayer
+main stat: Atk, Cryo, Crit
+sub stat: Crit, Atk, ER
+140 ER 
