@@ -28,5 +28,8 @@ sub stat: Crit rate for Favonius Lance, ER
 155 - 190 ER for burst on CD
 
 Bennet - Noblesse Oblige
-main stat:
-sub stat:
+main stat: ER, Pyro, Crit,
+sub stat: ER / Crit, ATK%
+~225 ER for burst on CD
+
+Kazuha
