@@ -8,11 +8,11 @@ sub stat: Crit, ATK, ER / EM
 100 - 200 EM (Nahida ult give 175 EM)
 150 ER
 
-Kuki - Gilded Dream
-main stat: EM, Electro, Crit
-sub stat: Crit, ATK / ER
-200 ER solo
-140 ER double
+Kuki - Gilded Dream 
+main stat: all EM
+sub stat: Crit, ATK / HP, ER
 weapon: Iron Sting, 
 
 Raiden - Emblem
+
+Ayaka - Blizzard Strayer
