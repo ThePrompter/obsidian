@@ -16,8 +16,11 @@ weapon: Iron Sting,
 Raiden - Emblem
 
 Ayaka - Blizzard Strayer
-main stat: Atk, Cryo, Crit
+main stat: ATK, Cryo, Crit
 sub stat: Crit / Atk, ER
-140 ER 
+~140 ER 
 
 Shenhe - Noblesse Oblige
+main stat: ATK% / ER. ATK%, ATK%
+sub stat: Crit rate for Favonius Lance, ER
+155 - 190 ER for burst on CD
