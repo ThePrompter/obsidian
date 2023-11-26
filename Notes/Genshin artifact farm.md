@@ -32,4 +32,7 @@ main stat: ER, Pyro, Crit,
 sub stat: ER / Crit, ATK%
 ~225 ER for burst on CD
 
-Kazuha
+Kazuha - VV
+main stat: all EM
+sub stat: ER, Crit for Favonius sword
+~160 ER
