@@ -9,7 +9,10 @@ sub stat: Crit, ATK, ER / EM
 150 ER
 
 Kuki - Gilded Dream
-main stat: all EM
+main stat: EM, Electro, Crit
 sub stat: Crit, ATK / ER
+200 ER solo
+140 ER double
+weapon: Iron Sting, 
 
 Raiden - Emblem
