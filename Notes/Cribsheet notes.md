@@ -6,6 +6,8 @@ Few days after birth 60% of babies has jaundice. Baby with east Asian ethic back
 
 If bathing is hard, push it as long as possible.
 
+Pump milk at the same frequency as baby eat.
+
 First 3 month, sick is more serious
 
 Emotional evaluation:
