@@ -8,7 +8,11 @@ If bathing is hard, push it as long as possible.
 
 Pump milk at the same frequency as baby eat.
 
-First 3 month, sick is more serious
+Co-sleep is ok, but make sure to de-risk.
+
+First 3 month, sick is more serious.
+
+Baby can sleep on their own after 4 month.
 
 Emotional evaluation:
 ![[PXL_20231208_030002112.jpg]]
