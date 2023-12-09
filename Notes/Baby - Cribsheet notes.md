@@ -14,5 +14,7 @@ First 3 month, sick is more serious.
 
 Baby can sleep on their own after 4 month.
 
+After x months, baby wake up at the same time, if you want them to sleep longer, put them to sleep earlier
+
 Emotional evaluation:
 ![[PXL_20231208_030002112.jpg]]
