@@ -1,5 +1,5 @@
 Unit not complete:
-Bennet, Shenhe, Xiangling, Gorou, Keqing, Kuki
+Bennet, Shenhe, Xiangling, Gorou, Keqing, Kuki, Yunjin
 
 Need upgrade:
 ...
@@ -47,3 +47,5 @@ sub stat: ER, Crit for Favonius sword
 Xiangling - Emblem
 
 Gouro -
+
+Yunjin - 
