@@ -1,5 +1,8 @@
 Unit not complete:
-Bennet, Shenhe, Xiangling, Gorou
+Bennet, Shenhe, Xiangling, Gorou, Keqing, Kuki
+
+Need upgrade:
+...
 
 
 Nilou - Tenacity of the Millelith
