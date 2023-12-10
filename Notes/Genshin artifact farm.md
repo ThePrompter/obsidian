@@ -2,7 +2,7 @@ Unit not complete:
 Bennet, Shenhe, Xiangling, Gorou, Keqing, Kuki, Yunjin
 
 Need upgrade:
-...
+Noelle
 
 
 Nilou - Tenacity of the Millelith
@@ -48,4 +48,6 @@ Xiangling - Emblem
 
 Gouro -
 
-Yunjin - 
+Yunjin - husk
+
+Noelle - husk
