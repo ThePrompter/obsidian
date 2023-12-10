@@ -1,3 +1,7 @@
+Unit not complete:
+Bennet, Shenhe, Xiangling, Gorou
+
+
 Nilou - Tenacity of the Millelith
 main stat: all HP%
 sub stat: EM, recharge, flat HP
@@ -36,3 +40,7 @@ Kazuha - VV
 main stat: all EM
 sub stat: ER, Crit for Favonius sword
 ~160 ER
+
+Xiangling - Emblem
+
+Gouro -
