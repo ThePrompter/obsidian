@@ -3,6 +3,10 @@ First 3 day is common to lose weight
 - 90 percentile lose 10%
 
 Few days after birth 60% of babies has jaundice. Baby with east Asian ethic background, not breast feeding well has a higher chance.
+call in if you notice jaundice. feeding more can help.
+if hard to wake up the baby call in.
+
+soothing baby, swaddling, shushing, siding, swin
 
 If bathing is hard, push it as long as possible.
 
