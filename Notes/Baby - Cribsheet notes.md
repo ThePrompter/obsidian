@@ -6,7 +6,7 @@ Few days after birth 60% of babies has jaundice. Baby with east Asian ethic back
 call in if you notice jaundice. feeding more can help.
 if hard to wake up the baby call in.
 
-soothing baby, swaddling, shushing, siding, swin
+soothing baby, swaddling, shushing, siding, swinging
 
 If bathing is hard, push it as long as possible.
 
