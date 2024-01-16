@@ -13,7 +13,7 @@ Theo
 Isaac
 ~~Knox~~
 ~~Luca~~
-~~Lucius~~
+Lucius
 ~~Finn / Finlo / Finley~~
 ~~Aiden~~
 ~~Marcus~~
