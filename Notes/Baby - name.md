@@ -11,7 +11,7 @@ Isaac
 
 
 Isaac
-Knox
+~~Knox~~
 ~~Luca~~
 ~~Lucius~~
 Finn / Finlo / Finley
