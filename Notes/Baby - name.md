@@ -2,21 +2,21 @@ sites:
 popularity of name https://datayze.com/name-uniqueness-analyzer?name=erwin
 
 
-Ethan / Nathan
+~~Ethan~~ / Nathan
 Damian
 ~~Liam~~
 Isaac
-Theo
-Elliot
+~~Theo~~
+~~Elliot~~
 
 
 Isaac
 Knox
-Luca
-Lucius
+~~Luca~~
+~~Lucius~~
 Finn / Finlo / Finley
 ~~Aiden~~
-Marcus
+~~Marcus~~
 ~~Orion~~
 Callum
 Willis
