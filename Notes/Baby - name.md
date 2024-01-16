@@ -6,7 +6,7 @@ popularity of name https://datayze.com/name-uniqueness-analyzer?name=erwin
 Damian
 ~~Liam~~
 Isaac
-~~Theo~~
+Theo
 ~~Elliot~~
 
 
@@ -14,7 +14,7 @@ Isaac
 ~~Knox~~
 ~~Luca~~
 ~~Lucius~~
-Finn / Finlo / Finley
+~~Finn / Finlo / Finley~~
 ~~Aiden~~
 ~~Marcus~~
 ~~Orion~~
